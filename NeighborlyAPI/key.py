@@ -1,0 +1,2 @@
+primary_db_key='mongodb://project2cosmosdb:PYU4TZ0rd5lAmdzFk6ipqVxkPkvnj9k57n8zl5Pe6EzohxPVkpBPhoD4T6x8y61TAOE6C0Xpo9bQNplPhJNUSA==@project2cosmosdb.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@project2cosmosdb@'
+database_name='mydatabase'
